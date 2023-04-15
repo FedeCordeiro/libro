@@ -1,10 +1,10 @@
 # Repositorio (Libro)
 
-# Trabajo práctico N° 1 
-# Trabajo práctico N° 2
+Trabajo práctico N° 1 
+Trabajo práctico N° 2
 
 
-# Instrucciones para utilizar este repositorio
+Instrucciones para utilizar este repositorio
 # 1. Clonar url del repositorio (git clone url)
 # 2. Crear un archivo o modificar archivo existente
 # 3. Usar comando para agregar archivo (git add)
