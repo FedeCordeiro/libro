@@ -1,7 +1,7 @@
 # Repositorio (Libro)
 
-Consignas Trabajo práctico N° 1 
-Consignas Trabajo práctico N° 2
+* Trabajo práctico N° 1
+* Trabajo práctico N° 2
 
 
 Instrucciones para utilizar este repositorio:
